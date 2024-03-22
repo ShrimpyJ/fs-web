@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8V4BVqqL8SLGrXSDG8FabhLDD43H6UyPG+aHZzZw8hiT8/5P1Q6RmvlvtOjkZ228FkmLi0cVwzkHe8PYDi5hdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\FSharp-Web1\\FSharp-Web1\\FSharp-Web1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
